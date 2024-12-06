@@ -3,7 +3,7 @@
 # https://www.apache.org/licenses/LICENSE-2.0.html
 
 # ReadMe
-README = 'Private Library for PyTorch\nAuthor: K. Yusei'
+README = 'Public Library for PyTorch\nAuthor: K. Yusei'
 
 import numpy as np
 import matplotlib.pyplot as plt
