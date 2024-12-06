@@ -1,4 +1,6 @@
 # 共通関数
 # Apache Licence Version 2.0
-# https://github.com/yusei603/pythonlibs.git
+# https://www.apache.org/licenses/LICENSE-2.0.html
 
+# ReadMe
+README = 
